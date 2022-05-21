@@ -3,19 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritamkundu&label=Profile%20views&color=0e75b6&style=flat" alt="pritamkundu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritamkundu" alt="pritamkundu" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/pritam_kundu1" target="blank"><img src="https://img.shields.io/twitter/follow/pritam_kundu1?logo=twitter&style=for-the-badge" alt="pritam_kundu1" /></a> </p>
 
 - 🔭 I’m currently working on **QUPS Limited**
 
-- 🌱 I’m currently learning **Javascript,Cypress,IOS**
+- 🌱 I’m currently learning **Javascript, Cypress, IOS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PritamKundu](https://github.com/PritamKundu)
 
 - 📝 I regularly write articles on [pritamkundu.xyz](pritamkundu.xyz)
 
-- 💬 Ask me about **Java,Php,Selenium,Cucumber,TestNG,Appium,Jmeter,RestAssured**
+- 💬 Ask me about **Java, Php, Selenium, Cucumber, TestNG, Appium, Jmeter, RestAssured**
 
 - 📫 How to reach me **pritamkundu.pk5@gmail.com**
 
