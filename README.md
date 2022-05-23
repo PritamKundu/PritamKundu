@@ -1,7 +1,6 @@
+<p align="right"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/396615144354981.628b642e89fc6.jpg" alt="pritamkundu" /> </p>
 <h1 align="center">Hi 👋, I'm Pranta Kundu</h1>
 <h3 align="center">A passionate software test automation engineer from bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pritamkundu&label=Profile%20views&color=0e75b6&style=flat" alt="pritamkundu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/pritam_kundu1" target="blank"><img src="https://img.shields.io/twitter/follow/pritam_kundu1?logo=twitter&style=for-the-badge" alt="pritam_kundu1" /></a> </p>
 
