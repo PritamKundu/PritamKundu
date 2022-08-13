@@ -16,7 +16,6 @@
 
 - 📫 How to reach me **pritamkundu.pk5@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yW9YPdzGLpfBVXyb74Ne23-D8ah_b44N/view?usp=sharing](https://drive.google.com/file/d/1yW9YPdzGLpfBVXyb74Ne23-D8ah_b44N/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
