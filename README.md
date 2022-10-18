@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [pritamkundu.xyz](pritamkundu.xyz)
 
-- 💬 Ask me about **Java, Php, Selenium, Cucumber, TestNG, Appium, Cypress, Jmeter, Postman, RestAssured**
+- 💬 Ask me about **Java, Php, Selenium, Cucumber, TestNG, Appium, Cypress, JMeter, Postman, RestAssured**
 
 - 📫 How to reach me **pritamkundu.pk5@gmail.com**
 
