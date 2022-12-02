@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **RiseUp Labs**
 
-- 🌱 I’m currently learning **Javascript, Cypress, IOS**
+- 🌱 I’m currently learning **Javascript, Playwright**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PritamKundu](https://github.com/PritamKundu)
 
