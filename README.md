@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/pritam_kundu1" target="blank"><img src="https://img.shields.io/twitter/follow/pritam_kundu1?logo=twitter&style=for-the-badge" alt="pritam_kundu1" /></a> </p>
 
-- 🔭 I’m currently working on **RiseUp Labs**
+- 🔭 I’m currently working on **Doodle Inc.**
 
 - 🌱 I’m currently learning **Javascript, Playwright**
 
