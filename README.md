@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/pritam_kundu1" target="blank"><img src="https://img.shields.io/twitter/follow/pritam_kundu1?logo=twitter&style=for-the-badge" alt="pritam_kundu1" /></a> </p>
 
-- 🔭 I’m currently working as a **Senior Software Engineer (QA) at Arogga LTD.**
+- 🔭 I’m currently working as a **Senior Software Engineer (Test Automation) at Arogga LTD.**
 
-- 🌱 I’m currently learning **Javascript, Playwright**
+- 🌱 I’m currently learning **Javascript, Playwright, CI/CD**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PritamKundu](https://github.com/PritamKundu)
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Java, Php, Javascript, Selenium, Cucumber, TestNG, Appium, Cypress, JMeter, Postman, RestAssured**
 
-- 📫 How to reach me **pritamkundu.pk5@gmail.com**
+- 📫 How to reach me **pranta@arogga.com.bd**
 
 
 <h3 align="left">Connect with me:</h3>
