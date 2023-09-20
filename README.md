@@ -31,6 +31,6 @@
 
 <a href=""> <img  allign="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pritamkundu&theme=react&line_height=40&hide=css" width="260"/> </a>
 <a href=""> <img  allign="center" src="https://github-readme-stats.vercel.app/api?username=PritamKundu&theme=react&line_height=38&hide=css" width="285"/> </a>
-<a href=""> <img  allign="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=PritamKundu&" alt="pritamkundu&theme=react&line_height=35&hide=css" width="285"/> </a>
+<a href=""> <img  allign="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=PritamKundu&alt=pritamkundu&theme=react&line_height=35&hide=css" width="285"/> </a>
 
 
