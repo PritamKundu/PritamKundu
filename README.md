@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working as a **Senior Software Engineer (Test Automation) at Arogga LTD.**
 
-- 🌱 I’m currently learning **Javascript, Playwright, CI/CD**
+- 🌱 I’m currently learning **Azure Devops, CI/CD**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PritamKundu](https://github.com/PritamKundu)
 
 - 📝 I regularly write articles on [pritamkundu.xyz](pritamkundu.xyz)
 
-- 💬 Ask me about **Java, Php, Javascript, Selenium, Cucumber, TestNG, Appium, Cypress, JMeter, Postman, RestAssured**
+- 💬 Ask me about **Java, Python, Javascript, Selenium, Playwright, WedriverIO, Cucumber, TestNG, Appium, Cypress, JMeter, Postman, RestAssured**
 
 - 📫 How to reach me **pranta@arogga.com.bd**
 
