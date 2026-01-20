@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PritamKundu](https://github.com/PritamKundu)
 
-- 📝 I regularly write articles on [pritamkundu.xyz](pritamkundu.xyz)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/pritam-kundu](https://www.linkedin.com/in/pritam-kundu)
 
 - 💬 Ask me about **Java, Python, Javascript, Selenium, Playwright, WedriverIO, Cucumber, TestNG, Appium, Cypress, JMeter, Postman, RestAssured**
 
