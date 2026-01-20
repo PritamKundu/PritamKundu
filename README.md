@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Java, Python, Javascript, Selenium, Playwright, WedriverIO, Cucumber, TestNG, Appium, Cypress, JMeter, Postman, RestAssured**
 
-- 📫 How to reach me **pranta@arogga.com.bd**
+- 📫 How to reach me **pritamkundu.pk5@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
