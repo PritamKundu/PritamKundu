@@ -52,8 +52,31 @@
   </tr>
 </table>
 
-<a href=""> <img  allign="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pritamkundu&theme=react&line_height=40&hide=css" width="260"/> </a>
-<a href=""> <img  allign="center" src="https://github-readme-stats.vercel.app/api?username=PritamKundu&theme=react&line_height=38&hide=css" width="250"/> </a>
-<a href=""> <img  allign="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=pritamkundu&show_icons=true&theme=react&line_height=37&hide=css" width="250"/> </a>
+<h3 align="left">GitHub Stats:</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/pritamkundu">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pritamkundu&theme=react&hide=css&layout=compact" 
+             alt="Top Languages" 
+             width="100%"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/pritamkundu">
+        <img src="https://github-readme-stats.vercel.app/api?username=PritamKundu&theme=react&show_icons=true&count_private=true" 
+             alt="GitHub Stats" 
+             width="100%"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/pritamkundu">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritamkundu&theme=react&hide_border=true" 
+             alt="GitHub Streak" 
+             width="100%"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
