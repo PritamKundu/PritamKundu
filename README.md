@@ -53,30 +53,46 @@
 </table>
 
 <h3 align="left">GitHub Stats:</h3>
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/pritamkundu">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pritamkundu&theme=react&hide=css&layout=compact" 
-             alt="Top Languages" 
-             width="100%"/>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/pritamkundu">
-        <img src="https://github-readme-stats.vercel.app/api?username=PritamKundu&theme=react&show_icons=true&count_private=true" 
-             alt="GitHub Stats" 
-             width="100%"/>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/pritamkundu">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritamkundu&theme=react&hide_border=true" 
-             alt="GitHub Streak" 
-             width="100%"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  
+  <div style="flex: 1; min-width: 280px;">
+    <a href="https://github.com/pritamkundu">
+      <img 
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pritamkundu&theme=react&hide=css&layout=compact"
+        alt="Top Languages"
+        onerror="this.onerror=null; this.src='https://via.placeholder.com/260x150?text=Top+Languages+Unavailable';"
+        style="width: 100%; max-width: 300px; height: auto; border-radius: 10px;"
+      />
+    </a>
+  </div>
+  
+  <div style="flex: 1; min-width: 280px;">
+    <a href="https://github.com/pritamkundu">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=PritamKundu&theme=react&show_icons=true&count_private=true"
+        alt="GitHub Stats"
+        onerror="this.onerror=null; this.src='https://via.placeholder.com/300x150?text=Stats+Unavailable';"
+        style="width: 100%; max-width: 300px; height: auto; border-radius: 10px;"
+      />
+    </a>
+  </div>
+  
+  <div style="flex: 1; min-width: 280px;">
+    <a href="https://github.com/pritamkundu">
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=pritamkundu&theme=react&hide_border=true"
+        alt="GitHub Streak"
+        onerror="this.onerror=null; this.src='https://via.placeholder.com/300x150?text=Streak+Unavailable';"
+        style="width: 100%; max-width: 300px; height: auto; border-radius: 10px;"
+      />
+    </a>
+  </div>
+  
+</div>
+
+<!-- Add a backup note -->
+<p align="center">
+  <i>💡 Note: Stats may take a few seconds to load. <a href="https://github.com/pritamkundu">View my GitHub profile</a> for more details.</i>
+</p>
 
 
