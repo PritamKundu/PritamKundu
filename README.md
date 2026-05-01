@@ -53,36 +53,29 @@
 </table>
 
 <h3 align="left">GitHub Stats:</h3>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
-  
-  <!-- Top Languages Card -->
-  <div style="flex: 1; min-width: 250px; text-align: center;">
-    <a href="https://github.com/pritamkundu" target="_blank">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pritamkundu&theme=react&line_height=40&hide=css&layout=compact" 
-           alt="Top Languages" 
-           width="100%" 
-           style="max-width: 260px; height: auto;"/>
-    </a>
-  </div>
-  
-  <!-- GitHub Stats Card -->
-  <div style="flex: 1; min-width: 250px; text-align: center;">
-    <a href="https://github.com/pritamkundu" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=PritamKundu&theme=react&show_icons=true&count_private=true" 
-           alt="GitHub Stats" 
-           width="100%" 
-           style="max-width: 250px; height: auto;"/>
-    </a>
-  </div>
-  
-  <!-- Streak Stats Card -->
-  <div style="flex: 1; min-width: 250px; text-align: center;">
-    <a href="https://github.com/pritamkundu" target="_blank">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritamkundu&theme=react&hide_border=true" 
-           alt="GitHub Streak" 
-           width="100%" 
-           style="max-width: 250px; height: auto;"/>
-    </a>
-  </div>
-  
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/pritamkundu">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pritamkundu&theme=react&hide=css&layout=compact" 
+             alt="Top Languages" 
+             width="100%"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/pritamkundu">
+        <!-- FIXED: Changed 'PritamKundu' to 'pritamkundu' (lowercase p) -->
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pritamkundu&theme=react" 
+             alt="GitHub Stats" 
+             width="100%"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/pritamkundu">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritamkundu&theme=react&hide_border=true" 
+             alt="GitHub Streak" 
+             width="100%"/>
+      </a>
+    </td>
+  </tr>
+</table>
